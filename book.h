@@ -12,4 +12,4 @@ class Book
 };
 
 
-#endif // BOOK_H_INCLUDED
+#endif  BOOK_H_INCLUDED
